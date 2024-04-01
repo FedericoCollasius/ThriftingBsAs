@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Thrifting en Buenos Aires</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="title-container">
+      <header class="site-header">
+        <h1>Thrifting en Buenos Aires</h1>
+        <img
+          src="/images/plussign.png"
+          alt="Sugeri una feria"
+          id="suggest-store-btn"
+          onclick="openSuggestionForm()"
+        />
+      </header>
+    </div>
+    <div id="mapid"></div>
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Sugeri una feria</h2>
+        <p>Asegurate de aclarar en lo posible:</p>
+        <ul>
+          <li>Nombre de la feria</li>
+          <li>Direccion</li>
+          <li>Horarios</li>
+        </ul>
+        <textarea id="storyText"></textarea>
+        <button id="addButton">ENVIAR</button>
+      </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@latest/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

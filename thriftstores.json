@@ -1,0 +1,876 @@
+[
+  {
+    "name": "Keak Vintage",
+    "lng": -58.43631,
+    "lat": -34.58149,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "12:30-19:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "12:30-19:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "12:30-19:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "12:30-19:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "12:30-19:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "14:00-20:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "instagramUrl": "https://www.instagram.com/keakvintage/",
+    "googleMapsUrl": "https://maps.google.com/?cid=3806561969692340029"
+  },
+  {
+    "name": "Galeria 5ta Avenida",
+    "lng": -58.3851668,
+    "lat": -34.5958281,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "15:00-20:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "15:00-20:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "15:00-20:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "15:00-20:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "15:00-20:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "15:00-20:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=13535076887808350961"
+  },
+  {
+    "name": "Feria de Artesanos de Parque Centenario",
+    "lng": -58.4356338,
+    "lat": -34.6064996,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado",
+        "hours": "11:00-20:00"
+      },
+      {
+        "day": "Domingo",
+        "hours": "11:00-20:00"
+      },
+      {
+        "day": "Feriados",
+        "hours": "11:00-20:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=15012150169060747374",
+    "instagramUrl": "https://www.instagram.com/parquecentenario.feria/"
+  },
+  {
+    "name": "Juan Perez Vintage",
+    "lng": -58.3864367,
+    "lat": -34.5969284,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Domingo",
+        "note": "11:00-19:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=4834393073729385777",
+    "instagramUrl": "https://www.instagram.com/juanperezvintage/"
+  },
+  {
+    "name": "Ejercito de Salvacion",
+    "lng": -58.4159592,
+    "lat": -34.6460518,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "8:30-16:30"
+      },
+      {
+        "day": "Martes",
+        "hours": "8:30-16:30"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "8:30-16:30"
+      },
+      {
+        "day": "Jueves",
+        "hours": "8:30-16:30"
+      },
+      {
+        "day": "Viernes",
+        "hours": "8:30-16:30"
+      },
+      {
+        "day": "Sabado",
+        "hours": "8:30-16:30"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=9627708044465152962",
+    "instagramUrl": "https://www.instagram.com/ejercitodesalvaciontiendas/"
+  },
+  {
+    "name": "Danu Flores",
+    "lng": -58.45462919999999,
+    "lat": -34.5665024,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "10:00-18:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "10:00-18:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "10:00-18:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "10:00-18:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "10:00-18:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-14:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=5839198354864901706"
+  },
+  {
+    "name": "Feria Americana de Mirta",
+    "lng": -58.5054281,
+    "lat": -34.4797136,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "10:00-19:30"
+      },
+      {
+        "day": "Martes",
+        "hours": "10:00-19:30"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "10:00-19:30"
+      },
+      {
+        "day": "Jueves",
+        "hours": "10:00-19:30"
+      },
+      {
+        "day": "Viernes",
+        "hours": "10:00-19:30"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-14:00"
+      },
+      {
+        "day": "Domingo",
+        "hours": "10:00-14:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=13535076887808350961"
+  },
+  {
+    "name": "Burzapalooza",
+    "lng": -58.44223059999999,
+    "lat": -34.5962586,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "14:30-20:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "14:30-20:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "14:30-20:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "14:30-20:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "14:30-20:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "14:00-19:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=1455865595146471836",
+    "instagramUrl": "https://www.instagram.com/burzapalooza"
+  },
+  {
+    "name": "Feria Americana del Hogar",
+    "lng": -58.4085019,
+    "lat": -34.60271209999999,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes",
+        "hours": "11:00-16:30"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves",
+        "hours": "11:00-16:30"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=6713030520720315823"
+  },
+  {
+    "name": "New York Look",
+    "lng": -58.4959366,
+    "lat": -34.4777573,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "9:30-20:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "9:30-20:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "9:30-20:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "9:30-20:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "9:30-20:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "9:30-20:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=5745002301956121909",
+    "instagramUrl": "https://www.instagram.com/newyorklookvintage"
+  },
+  {
+    "name": "Cadaver Exquisito",
+    "lng": -58.4213974,
+    "lat": -34.5883669,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "11:00-22:00"
+      },
+      {
+        "day": "Domingo"
+      },
+      {
+        "day": "Feriados",
+        "hours": "14:00-20:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=7755030274261319678",
+    "instagramUrl": "https://www.instagram.com/cadaverexquisitoferia"
+  },
+  {
+    "name": "Del Anticuario",
+    "lng": -58.49317869999999,
+    "lat": -34.472426,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-19:00"
+      },
+      {
+        "day": "Domingo",
+        "hours": "10:00-19:00"
+      },
+      {
+        "day": "Feriados",
+        "hours": "10:00-19:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=18329492095294711964"
+  },
+  {
+    "name": "Plan B",
+    "lng": -58.53569169999999,
+    "lat": -34.4779052,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes",
+        "hours": "15:00-19:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "15:00-19:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "15:00-19:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "15:00-19:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-13:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=9459248373793097926"
+  },
+  {
+    "name": "Casi Nuevo",
+    "lng": -58.5076374,
+    "lat": -34.4792513,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "Martes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "10:00-18:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "Viernes",
+        "hours": "Cerrado"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-12:30"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=11113121723218175827",
+    "instagramUrl": "https://www.instagram.com/casinuevoferiababs/"
+  },
+  {
+    "name": "The Vintage Hole",
+    "lng": -58.42934649999999,
+    "lat": -34.5858108,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=10549811405257529911",
+    "instagramUrl": "https://www.instagram.com/thevintagehole/"
+  },
+  {
+    "name": "Rincon de Olga",
+    "lng": -58.4851677,
+    "lat": -34.5088469,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "11:00-13:00 & 16:00-19:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "11:00-13:00 & 16:00-19:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "11:00-13:00 & 16:00-19:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "11:00-13:00 & 16:00-19:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "11:00-13:00 & 16:00-19:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "11:00-13:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=15785417127116782371",
+    "instagramUrl": "https://www.instagram.com/rincondeolga/"
+  },
+  {
+    "name": "Las Garcia",
+    "lng": -58.50638389999999,
+    "lat": -34.52166620000001,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "17:00-20:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "17:00-20:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "17:00-20:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "17:00-20:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "17:00-20:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-19:00"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=253498257806170138",
+    "instagramUrl": "https://www.instagram.com/lasgarcia.feria"
+  },
+  {
+    "name": "Feria de San Telmo",
+    "lng": -58.3717573,
+    "lat": -34.6157668,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado"
+      },
+      {
+        "day": "Domingo",
+        "hours": "10:00-17:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=1965224047085179733",
+    "instagramUrl": "https://www.instagram.com/feriadesantelmo/"
+  },
+  {
+    "name": "Mercado San Telmo",
+    "lng": -58.37282,
+    "lat": -34.6193062,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "09:00-20:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "09:00-20:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "09:00-20:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "09:00-20:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "09:00-20:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "09:00-20:00"
+      },
+      {
+        "day": "Domingo",
+        "hours": "09:00-20:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=9185647501561373425",
+    "instagramUrl": "https://www.instagram.com/elmercadosantelmo/?hl=es"
+  },
+  {
+    "name": "Feria de Parque Lezama",
+    "lng": -58.369556,
+    "lat": -34.6265523,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Domingo",
+        "hours": "10:00-20:00"
+      },
+      {
+        "day": "Feriados",
+        "hours": "10:00-20:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=3377395607686333536",
+    "instagramUrl": "https://www.instagram.com/feriaartesanalparquelezama/"
+  },
+  {
+    "name": "Mercado Argentino Vintage",
+    "lng": -58.3727395,
+    "lat": -34.6206595,
+    "openingHours": [
+      {
+        "day": "Lunes",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Martes",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Jueves",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Viernes",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Sabado",
+        "hours": "11:00-19:00"
+      },
+      {
+        "day": "Domingo",
+        "hours": "11:00-19:00"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=17043709889758528058",
+    "instagramUrl": "https://www.instagram.com/mercado.argentino.vintage/"
+  },
+  {
+    "name": "Feria vintage OGA Misericordia",
+    "lng": -58.3972298,
+    "lat": -34.58923490000001,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes",
+        "hours": "10:00-16:30"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves",
+        "hours": "10:00-16:30"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=3853338577100970457",
+    "instagramUrl": "https://www.instagram.com/feriavintageogamisericordia/"
+  },
+  {
+    "name": "Se Hacen los Fifis",
+    "lng": -58.4281867,
+    "lat": -34.5927737,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes"
+      },
+      {
+        "day": "Miercoles",
+        "hours": "15:00-19:30"
+      },
+      {
+        "day": "Jueves",
+        "hours": "15:00-19:30"
+      },
+      {
+        "day": "Viernes",
+        "hours": "15:00-19:30"
+      },
+      {
+        "day": "Sabado"
+      },
+      {
+        "day": "Domingo"
+      }
+    ],
+    "googleMapsUrl": "https://maps.google.com/?cid=10454393844451708578",
+    "instagramUrl": "https://www.instagram.com/sehacenlosfifis/"
+  },
+  {
+    "name": "A Todo Retro",
+    "lng": -58.4281867,
+    "lat": -34.5927737,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado",
+        "hours": "15:00-20:00PM"
+      },
+      {
+        "day": "Domingo",
+        "hours": "15:00-20:00PM"
+      }
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/place/Gorriti+5099,+C1414BJQ+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5887517,-58.4320852,21z/data=!4m6!3m5!1s0x95bcb5891b0649db:0x78632e3539aec1a8!8m2!3d-34.5887531!4d-58.4319373!16s%2Fg%2F11c5f8kb_2?entry=ttu",
+    "instagramUrl": "https://www.instagram.com/atodoretroexpo_/"
+  },
+  {
+    "name": "Thrifting Laura",
+    "lng": -58.4770757,
+    "lat": -34.5537883,
+    "openingHours": [
+      {
+        "day": "Lunes"
+      },
+      {
+        "day": "Martes"
+      },
+      {
+        "day": "Miercoles"
+      },
+      {
+        "day": "Jueves"
+      },
+      {
+        "day": "Viernes"
+      },
+      {
+        "day": "Sabado",
+        "hours": "15:30-19:30"
+      },
+      {
+        "day": "Domingo",
+        "hours": "15:30-19:30"
+      }
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/@-34.5538915,-58.4768835,3a,75y,204.85h,69.31t/data=!3m6!1e1!3m4!1sLLA0kcuELnlYBHPXzPqNZA!2e0!7i16384!8i8192?entry=ttu"
+  }
+]
