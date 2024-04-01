@@ -12,7 +12,7 @@ type ThriftStore = {
   openingHours: OpeningHours[];
   instagramUrl?: string;
   googleMapsUrl?: string;
-  comment?: string; // Optional comment attribute
+  comment?: string; // TBT
 };
 
 var aestheticMarker = L.icon({
@@ -85,22 +85,21 @@ function openSuggestionForm(): void {
   const modal = document.getElementById("myModal");
   if (modal) {
     modal.classList.add("show");
-    modal.style.right = "0"; // Reset the right property to slide in
-    modal.style.visibility = "visible"; // Make it visible immediately
+    modal.style.right = "0";
+    modal.style.visibility = "visible";
   }
 }
 
 function closeModal(): void {
   const modal = document.getElementById("myModal");
   if (modal) {
-    modal.style.right = "-33.33%"; // Slide out
+    modal.style.right = "-33.33%";
     setTimeout(() => {
       modal.style.visibility = "hidden";
-    }, 500); // Delay hiding until after the slide-out transition
+    }, 500);
   }
 }
 
-// Attach event listeners after the DOM is fully loaded
 document.addEventListener("DOMContentLoaded", () => {
   const span = document.getElementsByClassName("close")[0] as HTMLElement;
   span.onclick = function () {

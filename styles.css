@@ -38,7 +38,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  right: 0; /* Ensure it spans the full width */
+  right: 0;
   z-index: 1000; /* Keep it on top of other elements */
 }
 
@@ -163,7 +163,7 @@ body {
   background-size: cover;
   transition: right 0.5s ease-in-out, visibility 0s linear 0.5s;
   overflow: auto;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 10); /* Adjust the values to suit your design */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
 }
 
 .modal.show {
@@ -185,10 +185,10 @@ body {
   color: #cd452a;
   margin: 0;
   padding: 20px 0;
-  font-size: 24px; /* Adjust color and thickness as needed */
-  display: block; /* Makes the element a block-level element */
-  border-bottom: 2px solid #cd452a; /* The line color */
-  padding-bottom: 10px; /* Space between text and line */
+  font-size: 24px;
+  display: block;
+  border-bottom: 2px solid #cd452a;
+  padding-bottom: 10px;
   text-align: left; /* Centers the text */
   margin-bottom: 20px; /* Space below the line */
   width: 100%; /* Adjusts the width of the line */
@@ -231,7 +231,7 @@ body {
   border-radius: 4px;
   cursor: pointer;
   text-transform: uppercase;
-  font-family: "Thrifting", sans-serif; /* Apply the "Thrifting" font */
+  font-family: "Thrifting", sans-serif;
   font-size: 22px;
 }
 
