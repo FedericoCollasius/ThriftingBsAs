@@ -1,8 +1,10 @@
-import { useEffect } from "react";
+
 import { MouseEvent } from "react";
+import FormNewStore from "./FormNewStore";
+import { ThriftStore } from "../../models/types";
 
 
-export default function SuggestNewStore() {
+export default function SuggestNewStore({addThriftStorePreview } : {addThriftStorePreview: (newStore: ThriftStore) => void}) {
 
     function closeModal(event?: MouseEvent): void {
         event?.stopPropagation();
@@ -32,8 +34,7 @@ export default function SuggestNewStore() {
                     <li>Direccion</li>
                     <li>Horarios</li>
                 </ul>
-                <textarea id="storyText"></textarea>
-                <button id="addButton">ENVIAR</button>
+                <FormNewStore addThriftStorePreview={addThriftStorePreview} />
             </div>
         </div>
     )

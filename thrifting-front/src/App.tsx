@@ -28,7 +28,9 @@ function App() {
     }
   }
 
- 
+ function addThriftStorePreview(newStore: ThriftStore): void {
+    setThriftStores([...thriftStores, newStore]);
+  }
 
 
 
@@ -76,7 +78,7 @@ function App() {
           />
         </header>
       </div>
-      <SuggestNewStore />
+      <SuggestNewStore addThriftStorePreview={addThriftStorePreview}/>
 
 
 
