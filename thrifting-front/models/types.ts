@@ -1,4 +1,4 @@
-/// <reference types="leaflet" />
+
 
 import L from "leaflet";
 import "leaflet-providers";
@@ -18,7 +18,7 @@ export   type ThriftStore = {
     comment?: string; // TBT
   };
   
-export var aestheticMarker = L.icon({
+export const aestheticMarker = L.icon({
     iconUrl: "/images/marker.png",
     iconSize: [60, 65], // size of the icon
     iconAnchor: [30, 50], // point of the icon which will correspond to marker's location
