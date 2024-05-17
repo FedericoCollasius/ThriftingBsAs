@@ -250,3 +250,11 @@
     text-decoration: none;
   }
   
+  .rotate-background {
+    background-image: url('path/to/RippedPaperPNG.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transform: rotate(3deg); /* Adjust the degree of rotation as needed */
+    display: inline-block; /* Ensure the transform is applied correctly */
+  }
